@@ -11,4 +11,3 @@
 </ul>
 <h1>Point to see :</h1>
 <p>-> Use your API Key to get know about weather.</p>
-<h3>See here the interfaces : </h3>
